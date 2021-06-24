@@ -1,2 +1,2 @@
 require "spec"
-require "../src/deez_nuts"
+require "../src/weather_bar"

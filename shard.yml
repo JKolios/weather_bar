@@ -8,6 +8,9 @@ targets:
   weather_bar:
     main: src/weather_bar.cr
 
+executables:
+  - weather_bar
+
 crystal: 1.0.0
 
 license: MIT

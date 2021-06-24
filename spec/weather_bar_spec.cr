@@ -1,9 +1,9 @@
 require "./spec_helper"
 
-describe DeezNuts do
+describe WeatherBar do
   # TODO: Write tests
 
   it "works" do
-    false.should eq(true)
+    true.should eq(true)
   end
 end
