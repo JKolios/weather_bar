@@ -1,5 +1,8 @@
 require "./spec_helper"
 
+ENV["API_KEY"] ||= "MOCK"
+p! ENV
+
 describe WeatherBar do
   # TODO: Write tests
 

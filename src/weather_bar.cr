@@ -43,7 +43,7 @@ module WeatherBar
   
   if openweather_api_key == ""
     STDERR.puts "No OpenWeather API key specified"
-    exit(1)
+    exit(0)
   end
  
   unless weather_api_call || onecall_api_call
