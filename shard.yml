@@ -1,0 +1,13 @@
+name: weather_bar
+version: 0.1.0
+
+authors:
+  - JKolios <thisis@not-my-real-email.com>
+
+targets:
+  weather_bar:
+    main: src/weather_bar.cr
+
+crystal: 1.0.0
+
+license: MIT

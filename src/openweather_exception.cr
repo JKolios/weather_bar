@@ -1,0 +1,2 @@
+class OpenWeatherException < Exception
+end
