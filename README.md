@@ -1,4 +1,4 @@
-# weathe_rbar
+# weather_bar
 
 TODO: Write a description here
 
